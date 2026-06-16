@@ -1,4 +1,4 @@
-#Risk Assessment
+# Risk Assessment
 
 The analysis performed as part of risk management. A risk assessments incorporates threat and vulnerability analyses and considers mitigations provided by security controls planned or in place.
 
